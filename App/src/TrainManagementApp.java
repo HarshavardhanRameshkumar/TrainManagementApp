@@ -21,5 +21,8 @@ public class TrainManagementApp {
         // UC8: Dispatch Train for Next Journey
         System.out.println("Dispatch: Train has been cleared for the next journey.");
         System.out.println("Status: Waiting for new manifest.");
+        // UC9: Return to Depot
+        System.out.println("End of Day: Train returning to the main depot.");
+        System.out.println("Status: Parked and secured for the night.");
     }
 }
