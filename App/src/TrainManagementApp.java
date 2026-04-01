@@ -9,5 +9,8 @@ public class TrainManagementApp {
         // UC4: Start Engine and Depart Station
         System.out.println("Engine: Started and ready for departure.");
         System.out.println("Train is now departing the station.");
+        // UC5: Arrive at Destination and Unload
+        System.out.println("Location: Arrived safely at the destination terminal.");
+        System.out.println("Unloading: Passengers and Freight are now being unloaded.");
     }
 }
