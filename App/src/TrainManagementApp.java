@@ -24,5 +24,8 @@ public class TrainManagementApp {
         // UC9: Return to Depot
         System.out.println("End of Day: Train returning to the main depot.");
         System.out.println("Status: Parked and secured for the night.");
+        // UC10: Daily Operational Log Generated
+        System.out.println("Operational Log: Generating daily operational statistics.");
+        System.out.println("Status: Log saved to system records.");
     }
 }
