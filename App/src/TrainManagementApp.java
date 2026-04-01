@@ -18,5 +18,8 @@ public class TrainManagementApp {
         // UC7: Generate Revenue Report
         System.out.println("Revenue Report: Calculating total earnings from passenger and freight.");
         System.out.println("Status: Revenue report generated successfully.");
+        // UC8: Dispatch Train for Next Journey
+        System.out.println("Dispatch: Train has been cleared for the next journey.");
+        System.out.println("Status: Waiting for new manifest.");
     }
 }
