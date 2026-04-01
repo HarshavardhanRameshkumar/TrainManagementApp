@@ -15,5 +15,8 @@ public class TrainManagementApp {
         // UC6: Shut down Engine and Perform Maintenance
         System.out.println("Engine: Shutdown sequence initiated.");
         System.out.println("Maintenance: Train is now in the yard for scheduled maintenance.");
+        // UC7: Generate Revenue Report
+        System.out.println("Revenue Report: Calculating total earnings from passenger and freight.");
+        System.out.println("Status: Revenue report generated successfully.");
     }
 }
