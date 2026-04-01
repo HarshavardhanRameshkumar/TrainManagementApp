@@ -12,5 +12,8 @@ public class TrainManagementApp {
         // UC5: Arrive at Destination and Unload
         System.out.println("Location: Arrived safely at the destination terminal.");
         System.out.println("Unloading: Passengers and Freight are now being unloaded.");
+        // UC6: Shut down Engine and Perform Maintenance
+        System.out.println("Engine: Shutdown sequence initiated.");
+        System.out.println("Maintenance: Train is now in the yard for scheduled maintenance.");
     }
 }
